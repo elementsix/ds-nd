@@ -3,7 +3,6 @@
 整个项目包括大概7个子项目，roadmap如下：
 + **Data wrangling**
 + **EDA with R**
-+ **Foundation of ML**
 + **Supervised learning**
 + **Unsupervised learning**
 + **Deep learning**
