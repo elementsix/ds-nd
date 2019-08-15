@@ -15,9 +15,9 @@
 + **Soft engineer**
 + **Foundation of ML**
 + **Data Engineering**
-** **ETL**
-** **NPL pipeline** 
-** **Machine Learning Pipeline**
+ + **ETL**
+ + **NPL pipeline** 
+ + **Machine Learning Pipeline**
 
 子项目的结构如下：
 
