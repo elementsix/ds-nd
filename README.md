@@ -4,6 +4,8 @@
 + **Data wrangling**
 + **EDA with R**
 + **Foundation of ML**
++ **Supervised learning**
++ **Unsupervised learning**
 + **Deep learning**
 + **Recommend system**
 + **Spark and big data**
@@ -14,4 +16,4 @@
 子项目的结构如下：
 每个子项目都有一个topic，分为项目本身的实现已及围绕项目的学习笔记，笔记和项目都以jupyter notebook 形式展现，所需要的数据集都在对应的文件夹里
 
-整个项目大约需要半年
+
