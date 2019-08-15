@@ -10,11 +10,14 @@
 + **Spark and big data**
 
 另外项目还涉及一些项目相关的重要的基础知识：
-+ **ETL**
++ **SQL**
++ **Statistics**
 + **Soft engineer**
 + **Foundation of ML**
-+ **NPL pipeline** 
-+ **Machine Learning Pipeline**
++ **Data Engineering**
+++ **ETL**
+++ **NPL pipeline** 
+++ **Machine Learning Pipeline**
 
 子项目的结构如下：
 
